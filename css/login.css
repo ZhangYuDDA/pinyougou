@@ -1,0 +1,108 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+.loginhd {
+    height: 82px;
+    padding-top: 16px;
+}
+.loginmain {
+    height: 486px;
+    background-color: #7e00ff;
+}
+.loginpic {
+    float: left;
+    margin-left: 85px;
+}
+.loginbd {
+    float: right;
+    margin-top: 62px;
+    width: 379px;
+    height: 362px;
+    background-color: #fff;
+}
+.bd_inner {
+    width: 304px;
+    height: 362px;
+    margin-left: 38px;
+}
+.bd_innerhd {
+    height: 64px;
+    font-size: 18px;
+    line-height: 64px;
+}
+
+.scan {
+    float: left;
+    padding: 0 70px 0 10px;
+}
+.keyboard {
+    float: right;
+    padding-right: 10px;
+    color: #c81623;
+}
+.prompt {
+    height: 26px;
+    border: 1px solid #fbef94;
+    background-color: #fffdee;
+    padding-left: 9px;
+    line-height: 26px;
+    margin-bottom: 12px;
+}
+.bd_inner ul li {
+    position: relative;
+    margin-bottom: 17px;
+}
+.bd_inner ul li img {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+.bd_inner ul li input {
+    width: 304px;
+    height: 36px;
+    border: 1px solid #ccc;
+    padding-left: 47px;
+}
+.bd_inner ul li input:focus {
+    border-color: #4b7ef3;
+}
+.bd_inner input {
+    vertical-align: middle;
+}
+.bd_inner span {
+    float: right;
+
+}
+.bd_inner button {
+    width: 304px;
+    height: 41px;
+    background-color: #c81623;
+    color: #fff;
+    margin-top: 20px;
+}
+.login_footer {
+    height: 54px;
+    margin-top: 18px;
+}
+.login_footer a {
+    float: right;
+    margin-right: 8px;
+    line-height: 54px;
+}
+.mod_copyright {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.link {
+    margin-bottom: 12px;
+}
+
+.copyright {
+    line-height: 20px;
+}
+
+.link a {
+    margin: 0 16px;
+}
